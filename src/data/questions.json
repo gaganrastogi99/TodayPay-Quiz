@@ -1,0 +1,132 @@
+[
+  {
+    "id": "q1",
+    "question": "Which HTML element is used to include JavaScript code?",
+    "choices": [
+      "<style>",
+      "<script>",
+      "<javascript>",
+      "<code>"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "category": "Web"
+  },
+  {
+    "id": "q2",
+    "question": "In React, which hook do you use to manage component state?",
+    "choices": [
+      "useFetch",
+      "useStore",
+      "useState",
+      "useData"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": "q3",
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "q4",
+    "question": "CSS Grid property used to define columns is:",
+    "choices": [
+      "grid-template-rows",
+      "grid-gap",
+      "grid-template-columns",
+      "grid-rows"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": "q5",
+    "question": "Which HTTP status code indicates 'Unauthorized'?",
+    "choices": [
+      "200",
+      "301",
+      "401",
+      "403"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "category": "HTTP"
+  },
+  {
+    "id": "q6",
+    "question": "In SQL, which clause is used to filter groups after aggregation?",
+    "choices": [
+      "WHERE",
+      "GROUP BY",
+      "HAVING",
+      "ORDER BY"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "category": "Databases"
+  },
+  {
+    "id": "q7",
+    "question": "Which data structure works on a FIFO principle?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "category": "DS"
+  },
+  {
+    "id": "q8",
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "choices": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "Object.create()",
+      "toJSON()"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": "q9",
+    "question": "Spring Framework's IoC container primarily manages:",
+    "choices": [
+      "HTTP sessions",
+      "Database indexes",
+      "Bean lifecycles and dependencies",
+      "CSS styles"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "category": "Spring"
+  },
+  {
+    "id": "q10",
+    "question": "Which of the following improves web accessibility?",
+    "choices": [
+      "Using <div> for all elements",
+      "Meaningful alt text for images",
+      "Disabling focus outlines",
+      "Relying only on color to convey information"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "category": "A11y"
+  }
+]
